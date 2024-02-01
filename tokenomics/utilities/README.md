@@ -2,7 +2,7 @@
 
 ## What do we do?
 
-VC's (Venture Capitalists) move the crypto market. Especially with new projects, as there is not a lot of liquidity yet. You can see What Do You Meme as a VC and you can invest in the VC. We use our small buy and sell tax to raise a startcapital (on our Telegram, we will often update you about our holdings). We will invest this money into startups that creates a passive income.&#x20;
+VC's (Venture Capitalists) move the crypto market. Especially with new projects, as there is not a lot of liquidity yet. W3W is a VC and you can invest in the VC. We use our small buy and sell tax to raise a startcapital (on our Telegram, we will often update you about our holdings). We will invest this money into startups that creates a passive income.&#x20;
 
 ### Crypto launchpads
 
@@ -20,6 +20,5 @@ Lets say we put $5000 in startup X. Startup X does a 200x. We have $1.000.000. W
 * We buy back the $W3W token and burn it.
 * The money goes back in the W3W wallet for future investments
 * 7% fee goes to the W3W company
-* 2% goes to the buyback and stake
 
-On our Dapp, stakers of the $WDYM token can vote on proposals. So we will launch polls where the community can decide what we are going to do with the money. The buyback & stake and fee are fixed rates.&#x20;
+On our Dapp, stakers of the $W3W token can vote on proposals. So we will launch polls where the community can decide what we are going to do with the money. The buyback & stake and fee are fixed rates.&#x20;

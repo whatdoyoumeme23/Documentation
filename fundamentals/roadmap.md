@@ -29,6 +29,7 @@
 * [ ] Accumulate 100.000 Sfund tokens
 * [ ] Expand to more crypto launchpads
 * [ ] CEX listings
-* [ ] Expand the roadmap further
+* [x] Expand the roadmap further
+* [x] Migration/Merge into a real company
 
 This roadmap is not final and will be adjusted and expanded at any time needed.
