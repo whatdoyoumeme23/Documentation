@@ -18,7 +18,6 @@
   * [Stake & Claim](tokenomics/utilities/stake-and-claim.md)
   * [Burning](tokenomics/utilities/burning.md)
   * [Expanding](tokenomics/utilities/expanding.md)
-  * [Buyback & stake](tokenomics/utilities/buyback-and-stake.md)
   * [Company](tokenomics/utilities/company.md)
 
 ***

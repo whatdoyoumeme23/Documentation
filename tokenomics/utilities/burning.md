@@ -4,5 +4,5 @@
 
 2. If you want to unstake your tokens early, there will be a 20% penalty fee. 40% of this fee goes to the development of the project and 60% goes to more burning.\
 
-3. You can play the raffle on our dapp. 2% of the prices that are won will also go to the pentalty wallet: 40% of this fee goes to the development of the project and 60% goes to more burning.\
+3. You can play the raffle on our dapp. 2% of the prices that are won will also go to the penalty wallet: 40% of this fee goes to the development of the project and 60% goes to more burning.\
    \
