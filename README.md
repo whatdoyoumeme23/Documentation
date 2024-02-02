@@ -6,6 +6,6 @@
 
 ## Video overview
 
-Got a minute? The developer has a lot of video's about What Do You Meme. This is one of them:
+Got a minute? Let us introduce Web3 Whales in a single video:
 
 {% embed url="https://youtu.be/pe2Xc2HjTGw" %}
