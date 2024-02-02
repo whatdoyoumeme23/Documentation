@@ -68,6 +68,7 @@
   * [Web3War](our-investments/web3war.md)
   * [Unibit](our-investments/unibit.md)
   * [VisionGame Nodes](our-investments/visiongame-nodes.md)
+  * [IconX](our-investments/iconx.md)
 
 ## Fundamentals
 
