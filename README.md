@@ -8,4 +8,4 @@
 
 Got a minute? The developer has a lot of video's about What Do You Meme. This is one of them:
 
-{% embed url="https://www.youtube.com/watch?v=xIS_hxjw1ZY" %}
+{% embed url="https://youtu.be/pe2Xc2HjTGw" %}
