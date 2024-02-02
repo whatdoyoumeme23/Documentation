@@ -66,6 +66,7 @@
   * [Animalia](our-investments/animalia.md)
   * [Forward Protocol](our-investments/forward-protocol.md)
   * [Web3War](our-investments/web3war.md)
+  * [Unibit](our-investments/unibit.md)
 
 ## Fundamentals
 

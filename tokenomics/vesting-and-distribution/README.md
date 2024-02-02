@@ -1,7 +1,3 @@
----
-description: Keep in mind that this part of the gitbook is related to $WDYM!
----
-
 # 📪 Vesting & Distribution
 
 ## About the tokenomics
