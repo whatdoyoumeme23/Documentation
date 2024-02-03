@@ -54,7 +54,6 @@
   * [Nibiru Chain](our-investments/nibiru-chain.md)
   * [Umoja](our-investments/umoja.md)
   * [Gunzilla (nodes)](our-investments/gunzilla-nodes.md)
-  * [Codex](our-investments/codex.md)
   * [Project Hive](our-investments/project-hive.md)
   * [Storm Warfare](our-investments/storm-warfare.md)
   * [InceptionLRT](our-investments/inceptionlrt.md)
