@@ -69,6 +69,7 @@
   * [Unibit](our-investments/unibit.md)
   * [VisionGame Nodes](our-investments/visiongame-nodes.md)
   * [IconX](our-investments/iconx.md)
+  * [Nulink](our-investments/nulink.md)
 
 ## Fundamentals
 
