@@ -68,6 +68,7 @@
   * [VisionGame Nodes](our-investments/visiongame-nodes.md)
   * [IconX](our-investments/iconx.md)
   * [Nulink](our-investments/nulink.md)
+  * [Octavia](our-investments/octavia.md)
 
 ## Fundamentals
 
