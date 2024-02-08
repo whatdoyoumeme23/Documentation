@@ -69,6 +69,7 @@
   * [IconX](our-investments/iconx.md)
   * [Nulink](our-investments/nulink.md)
   * [Octavia](our-investments/octavia.md)
+  * [Quai Network](our-investments/quai-network.md)
 
 ## Fundamentals
 
