@@ -70,6 +70,7 @@
   * [Nulink](our-investments/nulink.md)
   * [Octavia](our-investments/octavia.md)
   * [Quai Network](our-investments/quai-network.md)
+  * [ChronoForge](our-investments/chronoforge.md)
 
 ## Fundamentals
 
