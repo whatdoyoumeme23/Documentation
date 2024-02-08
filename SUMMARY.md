@@ -31,7 +31,7 @@
   * [Friend3](our-investments/friend3.md)
   * [Seapad](our-investments/seapad.md)
   * [Plexus](our-investments/plexus.md)
-  * [WillClap](our-investments/willclap.md)
+  * [✅ WillClap](our-investments/willclap.md)
   * [Solidus AI](our-investments/solidus-ai.md)
   * [Serenity Shield](our-investments/serenity-shield.md)
   * [OpenFabric AI](our-investments/openfabric-ai.md)
