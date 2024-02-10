@@ -71,6 +71,7 @@
   * [Octavia](our-investments/octavia.md)
   * [Quai Network](our-investments/quai-network.md)
   * [ChronoForge](our-investments/chronoforge.md)
+  * [Mintdefence](our-investments/mintdefence.md)
 
 ## Fundamentals
 
