@@ -73,6 +73,7 @@
   * [ChronoForge](our-investments/chronoforge.md)
   * [Mintdefence](our-investments/mintdefence.md)
   * [Axen AI](our-investments/axen-ai.md)
+  * [Kima Finance](our-investments/kima-finance.md)
 
 ## Fundamentals
 
