@@ -77,7 +77,7 @@
 
 ## Fundamentals
 
-* [🏎 Roadmap](fundamentals/roadmap.md)
+* [🏎️ Roadmap](fundamentals/roadmap.md)
 * [✅ Our launchpads](fundamentals/our-launchpads.md)
 
 ## Get involved
