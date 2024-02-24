@@ -11,6 +11,7 @@ description: >-
 * [x] ChainGPT (Tripple diamond)
 * [x] Enjinstarter (Multiverse)
 * [x] Gains Associates (Sharks)
+* [x] Gainspad (Wizard tier)
 * [x] Neo Tokyo S1 NFT
 * [x] 20 Nexus NFT's (Mythical tier)
 * [x] Aitech Pad (Diamond tier)
