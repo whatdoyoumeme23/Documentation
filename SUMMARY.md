@@ -74,6 +74,9 @@
   * [Mintdefence](our-investments/mintdefence.md)
   * [Axen AI](our-investments/axen-ai.md)
   * [Kima Finance](our-investments/kima-finance.md)
+  * [Web3Go](our-investments/web3go.md)
+  * [Beoble](our-investments/beoble.md)
+  * [Weave6](our-investments/weave6.md)
 
 ## Fundamentals
 
