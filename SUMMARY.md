@@ -77,6 +77,7 @@
   * [Web3Go](our-investments/web3go.md)
   * [Beoble](our-investments/beoble.md)
   * [Weave6](our-investments/weave6.md)
+  * [Style Protocol](our-investments/style-protocol.md)
 
 ## Fundamentals
 
