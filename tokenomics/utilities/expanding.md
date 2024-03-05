@@ -10,6 +10,4 @@ Creating more income! This is most important to start with. We have a snowball a
 * Gamefi
 * Chain GPT
 
-The goal is to first have 10 million Enjinstarter tokens and to max out to tier 9 on Seedify. Fomotion will make videos on the W3W Youtube[^1] channel to review these launchpads so the community can vote on the launchpas where we have to invest in next.
-
-[^1]: [https://www.youtube.com/@Web3Whales](https://www.youtube.com/@Web3Whales)
+The goal is to make sure we have a huge allocation on top launchpads so that we can invest in new presales with the lowest risk possible. This is because these launchpads have a refund policy. When more capital comes in, we can look at private and seed sales.

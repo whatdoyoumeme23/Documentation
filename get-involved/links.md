@@ -8,4 +8,4 @@
 [Discord](https://discord.gg/yeMQeVnBvY)\
 [Youtube](https://www.youtube.com/@Web3Whales)\
 Coinmarketcap (TBA)\
-Coingecko (TBA)\
+[Coingecko ](https://www.coingecko.com/en/coins/web3-whales)\

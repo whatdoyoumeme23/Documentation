@@ -6,7 +6,7 @@ VC's (Venture Capitalists) move the crypto market. Especially with new projects,
 
 ### Crypto launchpads
 
-By investing in launchpads and joining crypto presales, IDO's, ICO's etc, you can make multiple 100x's weekly, especially in a bullmarket. Source: [Cryptorank](https://cryptorank.io/fundraising-platforms). However, for an individual investor it might be very hard or even impossible to get a high tier on a top launchpad as it's way too expensive, or you even live in a restricted counry. With What Do You Meme, we do this collectively.
+By investing in launchpads and joining crypto presales, IDO's, ICO's etc, you can make multiple 100x's weekly, especially in a bullmarket. Source: [Cryptorank](https://cryptorank.io/fundraising-platforms). However, for an individual investor it might be very hard or even impossible to get a high tier on a top launchpad as it's way too expensive, or you even live in a restricted counry. With Web3 Whales, we do this collectively.
 
 ### How does it work?
 
