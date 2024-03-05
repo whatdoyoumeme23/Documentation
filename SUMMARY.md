@@ -84,6 +84,7 @@
 
 * [🏎️ Roadmap](fundamentals/roadmap.md)
 * [✅ Our launchpads](fundamentals/our-launchpads.md)
+* [💲 Profits](fundamentals/profits.md)
 
 ## Get involved
 
