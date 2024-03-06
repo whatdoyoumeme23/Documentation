@@ -4,7 +4,7 @@ description: Here, you can find the profits we've made and how they are distrubu
 
 # 💲 Profits
 
-Januari 2024:
+Profits for 2024:
 
 <table><thead><tr><th>Profit January 2024: $16,400</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>50%</td><td>$8200</td></tr><tr><td>Launchpad wallet</td><td>40%</td><td>$6560</td></tr><tr><td><a href="https://bscscan.com/tx/0x55a163e8c540f439abc71748a739d529ee858acb7cd4a9dfee5619435dcdc9c6">Buyback</a> &#x26; <a href="https://bscscan.com/tx/0x41f90b1497878ffd07dc43d12744ac840110c37bc1fd619bd4f419f70ddfae1d">Burn</a></td><td>10%</td><td>$1640</td></tr></tbody></table>
 
