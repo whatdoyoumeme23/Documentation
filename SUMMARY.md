@@ -80,6 +80,7 @@
   * [Style Protocol](our-investments/style-protocol.md)
   * [MetalCore](our-investments/metalcore.md)
   * [DarkTimes](our-investments/darktimes.md)
+  * [Night of the living dead](our-investments/night-of-the-living-dead.md)
 
 ## Fundamentals
 
