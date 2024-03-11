@@ -81,6 +81,7 @@
   * [MetalCore](our-investments/metalcore.md)
   * [DarkTimes](our-investments/darktimes.md)
   * [Night of the living dead](our-investments/night-of-the-living-dead.md)
+  * [Aethir Nodes](our-investments/aethir-nodes.md)
 
 ## Fundamentals
 
