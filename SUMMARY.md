@@ -85,6 +85,7 @@
   * [Gaimin](our-investments/gaimin.md)
   * [Privasea](our-investments/privasea.md)
   * [Piena Finance](our-investments/piena-finance.md)
+  * [Orbital7](our-investments/orbital7.md)
 
 ## Fundamentals
 
