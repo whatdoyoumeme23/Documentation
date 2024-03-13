@@ -83,6 +83,8 @@
   * [Night of the living dead](our-investments/night-of-the-living-dead.md)
   * [Aethir Nodes](our-investments/aethir-nodes.md)
   * [Gaimin](our-investments/gaimin.md)
+  * [Privasea](our-investments/privasea.md)
+  * [Piena Finance](our-investments/piena-finance.md)
 
 ## Fundamentals
 
