@@ -88,6 +88,7 @@
   * [Orbital7](our-investments/orbital7.md)
   * [VersusX](our-investments/versusx.md)
   * [Castle of Blackwater](our-investments/castle-of-blackwater.md)
+  * [Monkey Empire](our-investments/monkey-empire.md)
 
 ## Fundamentals
 
