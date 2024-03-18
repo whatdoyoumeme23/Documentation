@@ -87,6 +87,7 @@
   * [Piena Finance](our-investments/piena-finance.md)
   * [Orbital7](our-investments/orbital7.md)
   * [VersusX](our-investments/versusx.md)
+  * [Castle of Blackwater](our-investments/castle-of-blackwater.md)
 
 ## Fundamentals
 
