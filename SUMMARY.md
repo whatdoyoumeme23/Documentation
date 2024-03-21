@@ -90,6 +90,7 @@
   * [Castle of Blackwater](our-investments/castle-of-blackwater.md)
   * [Monkey Empire](our-investments/monkey-empire.md)
   * [SecondWorld](our-investments/secondworld.md)
+  * [Grindery](our-investments/grindery.md)
 
 ## Fundamentals
 
