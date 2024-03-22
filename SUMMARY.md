@@ -91,6 +91,7 @@
   * [Monkey Empire](our-investments/monkey-empire.md)
   * [SecondWorld](our-investments/secondworld.md)
   * [Grindery](our-investments/grindery.md)
+  * [Legion Ventures](our-investments/legion-ventures.md)
 
 ## Fundamentals
 
