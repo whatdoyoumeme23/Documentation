@@ -93,6 +93,7 @@
   * [Grindery](our-investments/grindery.md)
   * [Legion Ventures](our-investments/legion-ventures.md)
   * [Sensay](our-investments/sensay.md)
+  * [Ordify](our-investments/ordify.md)
 
 ## Fundamentals
 
