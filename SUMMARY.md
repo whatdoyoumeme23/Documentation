@@ -94,6 +94,7 @@
   * [Legion Ventures](our-investments/legion-ventures.md)
   * [Sensay](our-investments/sensay.md)
   * [PlayEmber](our-investments/playember.md)
+  * [Sekuya](our-investments/sekuya.md)
   * [Ordify](our-investments/ordify.md)
 
 ## Fundamentals
