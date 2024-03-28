@@ -96,6 +96,7 @@
   * [PlayEmber](our-investments/playember.md)
   * [Sekuya](our-investments/sekuya.md)
   * [Ordify](our-investments/ordify.md)
+  * [GPU.net](our-investments/gpu.net.md)
 
 ## Fundamentals
 
