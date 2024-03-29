@@ -97,6 +97,7 @@
   * [Sekuya](our-investments/sekuya.md)
   * [Ordify](our-investments/ordify.md)
   * [GPU.net](our-investments/gpu.net.md)
+  * [MetaDOS](our-investments/metados.md)
 
 ## Fundamentals
 
