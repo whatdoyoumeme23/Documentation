@@ -101,6 +101,7 @@
   * [Evermoon](our-investments/evermoon.md)
   * [Flash Protocol](our-investments/flash-protocol.md)
   * [Providence](our-investments/providence.md)
+  * [Arcade2Earn](our-investments/arcade2earn.md)
 
 ## Fundamentals
 
