@@ -99,6 +99,8 @@
   * [GPU.net](our-investments/gpu.net.md)
   * [MetaDOS](our-investments/metados.md)
   * [Evermoon](our-investments/evermoon.md)
+  * [Flash Protocol](our-investments/flash-protocol.md)
+  * [Providence](our-investments/providence.md)
 
 ## Fundamentals
 
