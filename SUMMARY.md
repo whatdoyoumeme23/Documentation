@@ -102,6 +102,7 @@
   * [Flash Protocol](our-investments/flash-protocol.md)
   * [Providence](our-investments/providence.md)
   * [Arcade2Earn](our-investments/arcade2earn.md)
+  * [SatoshiSync](our-investments/satoshisync.md)
 
 ## Fundamentals
 
