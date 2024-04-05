@@ -103,6 +103,7 @@
   * [Providence](our-investments/providence.md)
   * [Arcade2Earn](our-investments/arcade2earn.md)
   * [SatoshiSync](our-investments/satoshisync.md)
+  * [Velvet Capital](our-investments/velvet-capital.md)
 
 ## Fundamentals
 
