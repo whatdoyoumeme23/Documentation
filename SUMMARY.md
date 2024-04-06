@@ -105,6 +105,7 @@
   * [SatoshiSync](our-investments/satoshisync.md)
   * [Velvet Capital](our-investments/velvet-capital.md)
   * [Private AI](our-investments/private-ai.md)
+  * [Trex20](our-investments/trex20.md)
 
 ## Fundamentals
 
