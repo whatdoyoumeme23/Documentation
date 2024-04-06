@@ -104,6 +104,7 @@
   * [Arcade2Earn](our-investments/arcade2earn.md)
   * [SatoshiSync](our-investments/satoshisync.md)
   * [Velvet Capital](our-investments/velvet-capital.md)
+  * [Private AI](our-investments/private-ai.md)
 
 ## Fundamentals
 
