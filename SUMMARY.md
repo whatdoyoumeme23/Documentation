@@ -108,6 +108,7 @@
   * [Trex20](our-investments/trex20.md)
   * [MetaXseed](our-investments/metaxseed.md)
   * [PairedWorld](our-investments/pairedworld.md)
+  * [Omnia Protocol](our-investments/omnia-protocol.md)
 
 ## Fundamentals
 
