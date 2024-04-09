@@ -107,6 +107,7 @@
   * [Private AI](our-investments/private-ai.md)
   * [Trex20](our-investments/trex20.md)
   * [MetaXseed](our-investments/metaxseed.md)
+  * [PairedWorld](our-investments/pairedworld.md)
 
 ## Fundamentals
 
