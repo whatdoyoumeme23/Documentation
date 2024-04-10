@@ -109,6 +109,7 @@
   * [MetaXseed](our-investments/metaxseed.md)
   * [PairedWorld](our-investments/pairedworld.md)
   * [Omnia Protocol](our-investments/omnia-protocol.md)
+  * [NextGemAI](our-investments/nextgemai.md)
 
 ## Fundamentals
 
