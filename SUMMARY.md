@@ -110,6 +110,7 @@
   * [PairedWorld](our-investments/pairedworld.md)
   * [Omnia Protocol](our-investments/omnia-protocol.md)
   * [NextGemAI](our-investments/nextgemai.md)
+  * [Nuklai](our-investments/nuklai.md)
 
 ## Fundamentals
 
