@@ -111,6 +111,8 @@
   * [Omnia Protocol](our-investments/omnia-protocol.md)
   * [NextGemAI](our-investments/nextgemai.md)
   * [Nuklai](our-investments/nuklai.md)
+  * [EstateX](our-investments/estatex.md)
+  * [Shardeum](our-investments/shardeum.md)
 
 ## Fundamentals
 
