@@ -114,6 +114,7 @@
   * [EstateX](our-investments/estatex.md)
   * [Shardeum](our-investments/shardeum.md)
   * [EarnM](our-investments/earnm.md)
+  * [Somo](our-investments/somo.md)
 
 ## Fundamentals
 
