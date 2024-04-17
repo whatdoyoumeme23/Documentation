@@ -115,6 +115,7 @@
   * [Shardeum](our-investments/shardeum.md)
   * [EarnM](our-investments/earnm.md)
   * [Somo](our-investments/somo.md)
+  * [Redacted](our-investments/redacted.md)
 
 ## Fundamentals
 
