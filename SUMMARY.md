@@ -117,7 +117,7 @@
   * [Somo](our-investments/somo.md)
   * [Redacted](our-investments/redacted.md)
   * [Ready To Fight](our-investments/ready-to-fight.md)
-  * [Blaftoff](our-investments/blaftoff.md)
+  * [Blastoff](our-investments/blastoff.md)
 
 ## Fundamentals
 
