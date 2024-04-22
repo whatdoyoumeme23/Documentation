@@ -116,6 +116,7 @@
   * [EarnM](our-investments/earnm.md)
   * [Somo](our-investments/somo.md)
   * [Redacted](our-investments/redacted.md)
+  * [Ready To Fight](our-investments/ready-to-fight.md)
 
 ## Fundamentals
 
