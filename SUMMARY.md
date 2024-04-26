@@ -120,6 +120,7 @@
   * [Blastoff](our-investments/blastoff.md)
   * [ArqX](our-investments/arqx.md)
   * [Kontos](our-investments/kontos.md)
+  * [Pairedworld](our-investments/pairedworld-1.md)
 
 ## Fundamentals
 
