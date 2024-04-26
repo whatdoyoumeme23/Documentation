@@ -119,6 +119,7 @@
   * [Ready To Fight](our-investments/ready-to-fight.md)
   * [Blastoff](our-investments/blastoff.md)
   * [ArqX](our-investments/arqx.md)
+  * [Kontos](our-investments/kontos.md)
 
 ## Fundamentals
 
