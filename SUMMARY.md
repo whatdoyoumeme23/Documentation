@@ -121,6 +121,7 @@
   * [ArqX](our-investments/arqx.md)
   * [Kontos](our-investments/kontos.md)
   * [Pairedworld](our-investments/pairedworld-1.md)
+  * [Saakuru](our-investments/saakuru.md)
 
 ## Fundamentals
 
