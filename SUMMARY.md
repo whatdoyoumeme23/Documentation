@@ -122,6 +122,10 @@
   * [Kontos](our-investments/kontos.md)
   * [Pairedworld](our-investments/pairedworld-1.md)
   * [Saakuru](our-investments/saakuru.md)
+  * [Plots Finance](our-investments/plots-finance.md)
+  * [Nyan Heroes](our-investments/nyan-heroes.md)
+  * [NexGami](our-investments/nexgami.md)
+  * [Havens Compass](our-investments/havens-compass.md)
 
 ## Fundamentals
 
