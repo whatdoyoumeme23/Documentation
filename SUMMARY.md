@@ -126,6 +126,7 @@
   * [Nyan Heroes](our-investments/nyan-heroes.md)
   * [NexGami](our-investments/nexgami.md)
   * [Havens Compass](our-investments/havens-compass.md)
+  * [Sophon nodes](our-investments/sophon-nodes.md)
 
 ## Fundamentals
 
