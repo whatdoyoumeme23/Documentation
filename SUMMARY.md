@@ -124,7 +124,7 @@
   * [Saakuru](our-investments/saakuru.md)
   * [Plots Finance](our-investments/plots-finance.md)
   * [Nyan Heroes](our-investments/nyan-heroes.md)
-  * [NexGami](our-investments/nexgami.md)
+  * [Gunzilla](our-investments/gunzilla.md)
   * [Havens Compass](our-investments/havens-compass.md)
   * [Sophon nodes](our-investments/sophon-nodes.md)
 
