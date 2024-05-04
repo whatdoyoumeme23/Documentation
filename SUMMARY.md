@@ -26,7 +26,7 @@
   * [😁 How does it work?](our-investments/how-does-it-work.md)
   * [Dexcheck](our-investments/dexcheck.md)
   * [WorkX](our-investments/workx.md)
-  * [Chappyz](our-investments/chappyz.md)
+  * [✅ Chappyz](our-investments/chappyz.md)
   * [Sophiaverse](our-investments/sophiaverse.md)
   * [Friend3](our-investments/friend3.md)
   * [Seapad](our-investments/seapad.md)
