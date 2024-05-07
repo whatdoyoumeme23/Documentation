@@ -1,4 +1,4 @@
-# Solidus AI
+# ✅ Solidus AI
 
 
 
