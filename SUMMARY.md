@@ -125,6 +125,7 @@
   * [Havens Compass](our-investments/havens-compass.md)
   * [Sophon nodes](our-investments/sophon-nodes.md)
   * [Wisdomise](our-investments/wisdomise.md)
+  * [Everreach](our-investments/everreach.md)
 
 ## Fundamentals
 
