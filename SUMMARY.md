@@ -126,6 +126,7 @@
   * [Sophon nodes](our-investments/sophon-nodes.md)
   * [Wisdomise](our-investments/wisdomise.md)
   * [Everreach](our-investments/everreach.md)
+  * [Carv (nodes)](our-investments/carv-nodes.md)
 
 ## Fundamentals
 
