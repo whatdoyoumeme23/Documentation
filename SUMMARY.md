@@ -127,6 +127,7 @@
   * [Wisdomise](our-investments/wisdomise.md)
   * [Everreach](our-investments/everreach.md)
   * [Carv (nodes)](our-investments/carv-nodes.md)
+  * [Engines of Fury](our-investments/engines-of-fury.md)
 
 ## Fundamentals
 
