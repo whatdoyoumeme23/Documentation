@@ -128,6 +128,7 @@
   * [Carv (nodes)](our-investments/carv-nodes.md)
   * [Engines of Fury](our-investments/engines-of-fury.md)
   * [MC2Fi](our-investments/mc2fi.md)
+  * [Shards](our-investments/shards.md)
 
 ## Fundamentals
 
