@@ -7,7 +7,8 @@ description: >-
 
 # ✅ Our launchpads
 
-* [x] Seedify (Tier 8)
+* [x] Seedify (Tier 7)
+* [x] Spartadex (God tier)
 * [x] ChainGPT (Tripple diamond)
 * [x] Enjinstarter (Multiverse)
 * [x] Gains Associates (Sharks)
