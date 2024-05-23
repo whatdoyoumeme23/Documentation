@@ -129,6 +129,7 @@
   * [Engines of Fury](our-investments/engines-of-fury.md)
   * [MC2Fi](our-investments/mc2fi.md)
   * [Shards](our-investments/shards.md)
+  * [C4E](our-investments/c4e.md)
 
 ## Fundamentals
 
