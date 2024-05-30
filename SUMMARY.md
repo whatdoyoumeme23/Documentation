@@ -133,6 +133,7 @@
   * [Elixir](our-investments/elixir.md)
   * [Trailblaze](our-investments/trailblaze.md)
   * [Skilfull AI](our-investments/skilfull-ai.md)
+  * [Le7el](our-investments/le7el.md)
 
 ## Fundamentals
 
