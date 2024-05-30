@@ -132,6 +132,7 @@
   * [C4E](our-investments/c4e.md)
   * [Elixir](our-investments/elixir.md)
   * [Trailblaze](our-investments/trailblaze.md)
+  * [Skilfull AI](our-investments/skilfull-ai.md)
 
 ## Fundamentals
 
