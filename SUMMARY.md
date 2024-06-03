@@ -116,7 +116,6 @@
   * [Ready To Fight](our-investments/ready-to-fight.md)
   * [Blastoff](our-investments/blastoff.md)
   * [ArqX](our-investments/arqx.md)
-  * [Kontos](our-investments/kontos.md)
   * [Pairedworld](our-investments/pairedworld-1.md)
   * [Saakuru](our-investments/saakuru.md)
   * [Plots Finance](our-investments/plots-finance.md)
@@ -134,6 +133,7 @@
   * [Trailblaze](our-investments/trailblaze.md)
   * [Skilfull AI](our-investments/skilfull-ai.md)
   * [Le7el](our-investments/le7el.md)
+  * [Agora](our-investments/agora.md)
 
 ## Fundamentals
 
