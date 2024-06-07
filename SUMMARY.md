@@ -112,7 +112,7 @@
   * [Shardeum](our-investments/shardeum.md)
   * [EarnM](our-investments/earnm.md)
   * [Somo](our-investments/somo.md)
-  * [Redacted](our-investments/redacted.md)
+  * [Carlo](our-investments/carlo.md)
   * [Ready To Fight](our-investments/ready-to-fight.md)
   * [Blastoff](our-investments/blastoff.md)
   * [ArqX](our-investments/arqx.md)
