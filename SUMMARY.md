@@ -132,8 +132,8 @@
   * [Elixir](our-investments/elixir.md)
   * [Trailblaze](our-investments/trailblaze.md)
   * [Skilfull AI](our-investments/skilfull-ai.md)
-  * [Le7el](our-investments/le7el.md)
   * [Agora](our-investments/agora.md)
+  * [Cookie3](our-investments/cookie3.md)
 
 ## Fundamentals
 
