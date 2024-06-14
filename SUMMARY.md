@@ -134,6 +134,8 @@
   * [Skilfull AI](our-investments/skilfull-ai.md)
   * [Agora](our-investments/agora.md)
   * [Cookie3](our-investments/cookie3.md)
+  * [Artfi](our-investments/artfi.md)
+  * [Megafans](our-investments/megafans.md)
 
 ## Fundamentals
 
