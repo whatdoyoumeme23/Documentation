@@ -136,6 +136,7 @@
   * [Cookie3](our-investments/cookie3.md)
   * [Artfi](our-investments/artfi.md)
   * [Megafans](our-investments/megafans.md)
+  * [Runes Terminal](our-investments/runes-terminal.md)
 
 ## Fundamentals
 
