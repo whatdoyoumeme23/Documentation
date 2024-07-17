@@ -136,6 +136,7 @@
   * [Artfi](our-investments/artfi.md)
   * [Megafans](our-investments/megafans.md)
   * [Runes Terminal](our-investments/runes-terminal.md)
+  * [Str8Fire](our-investments/str8fire.md)
 
 ## Fundamentals
 
