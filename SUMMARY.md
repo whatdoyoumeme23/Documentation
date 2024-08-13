@@ -116,7 +116,6 @@
   * [Ready To Fight](our-investments/ready-to-fight.md)
   * [Blastoff](our-investments/blastoff.md)
   * [ArqX](our-investments/arqx.md)
-  * [Pairedworld](our-investments/pairedworld-1.md)
   * [Saakuru](our-investments/saakuru.md)
   * [Plots Finance](our-investments/plots-finance.md)
   * [Nyan Heroes](our-investments/nyan-heroes.md)
