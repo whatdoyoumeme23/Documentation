@@ -136,6 +136,7 @@
   * [Megafans](our-investments/megafans.md)
   * [Runes Terminal](our-investments/runes-terminal.md)
   * [Str8Fire](our-investments/str8fire.md)
+  * [Shieldeum](our-investments/shieldeum.md)
 
 ## Fundamentals
 
