@@ -137,6 +137,7 @@
   * [Runes Terminal](our-investments/runes-terminal.md)
   * [Str8Fire](our-investments/str8fire.md)
   * [Shieldeum](our-investments/shieldeum.md)
+  * [NotAI](our-investments/notai.md)
 
 ## Fundamentals
 
