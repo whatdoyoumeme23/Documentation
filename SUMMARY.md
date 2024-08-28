@@ -120,7 +120,6 @@
   * [Plots Finance](our-investments/plots-finance.md)
   * [Nyan Heroes](our-investments/nyan-heroes.md)
   * [Havens Compass](our-investments/havens-compass.md)
-  * [Sophon nodes](our-investments/sophon-nodes.md)
   * [Wisdomise](our-investments/wisdomise.md)
   * [Everreach](our-investments/everreach.md)
   * [Carv (nodes)](our-investments/carv-nodes.md)
