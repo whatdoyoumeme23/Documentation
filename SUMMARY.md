@@ -137,6 +137,7 @@
   * [Str8Fire](our-investments/str8fire.md)
   * [Shieldeum](our-investments/shieldeum.md)
   * [NotAI](our-investments/notai.md)
+  * [Seedworld](our-investments/seedworld.md)
 
 ## Fundamentals
 
