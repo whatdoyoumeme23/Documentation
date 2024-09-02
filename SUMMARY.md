@@ -138,6 +138,8 @@
   * [Shieldeum](our-investments/shieldeum.md)
   * [NotAI](our-investments/notai.md)
   * [Seedworld](our-investments/seedworld.md)
+  * [Matrix One](our-investments/matrix-one.md)
+  * [0xVM Nodes](our-investments/0xvm-nodes.md)
 
 ## Fundamentals
 
