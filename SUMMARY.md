@@ -140,7 +140,6 @@
   * [Seedworld](our-investments/seedworld.md)
   * [Matrix One](our-investments/matrix-one.md)
   * [0xVM Nodes](our-investments/0xvm-nodes.md)
-  * [AutoLayer](our-investments/autolayer.md)
   * [Seedroots](our-investments/seedroots.md)
 
 ## Fundamentals
