@@ -1,5 +1,5 @@
 ---
-description: 'Info about the project: https://sonorus.network/'
+description: 'Info about the project: https://www.gpu.net/'
 ---
 
 # GPU.net
