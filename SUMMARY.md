@@ -24,7 +24,6 @@
 
 * [Investments](investments.md)
 * [🪙 Coins](our-investments/README.md)
-  * [😁 How does it work?](our-investments/how-does-it-work.md)
   * [Dexcheck](our-investments/dexcheck.md)
   * [✅ WorkX](our-investments/workx.md)
   * [✅ Chappyz](our-investments/chappyz.md)
@@ -143,6 +142,7 @@
   * [VisionGame](nodes/visiongame.md)
   * [Gunzilla](nodes/gunzilla.md)
   * [MetaXseed](nodes/metaxseed.md)
+  * [Sonorus](nodes/sonorus.md)
 * [🖼️ NFT's](nfts.md)
 
 ## Fundamentals
