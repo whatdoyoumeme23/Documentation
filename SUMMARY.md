@@ -147,6 +147,7 @@
 * [🏎️ Roadmap](fundamentals/roadmap.md)
 * [✅ Our launchpads](fundamentals/our-launchpads.md)
 * [💲 Profits](fundamentals/profits.md)
+* [🖼️ NFT's](fundamentals/nfts.md)
 
 ## Get involved
 

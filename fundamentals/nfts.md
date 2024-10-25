@@ -1,0 +1,9 @@
+---
+description: These are the NFT's that we are holding
+---
+
+# 🖼️ NFT's
+
+Profits gathered every 9th of the month for 2024:
+
+<table><thead><tr><th width="261">NFT</th><th width="134.33333333333331">Amount </th><th>Link</th></tr></thead><tbody><tr><td>Neo Tokyo S1</td><td>1</td><td><a href="https://opensea.io/0x263157fDD57c40975b3350e58Ad7E41130d5e072">https://opensea.io/0x263157fDD57c40975b3350e58Ad7E41130d5e072</a></td></tr><tr><td>Nexus Pass</td><td>20</td><td><a href="https://opensea.io/0x263157fDD57c40975b3350e58Ad7E41130d5e072">https://opensea.io/0x263157fDD57c40975b3350e58Ad7E41130d5e072</a></td></tr><tr><td>Kokodi NFT</td><td>1</td><td><a href="https://opensea.io/assets/ethereum/0x1aaba8552d4e2fbfc99bc86f31f28788c7dc1218/4062">https://opensea.io/assets/ethereum/0x1aaba8552d4e2fbfc99bc86f31f28788c7dc1218/4062</a></td></tr><tr><td>Seed roots</td><td>8</td><td><a href="https://opensea.io/assets/ethereum/0x304b8281feb6095c62220095f4c5661b72373cca/1300">https://opensea.io/assets/ethereum/0x304b8281feb6095c62220095f4c5661b72373cca/1300</a></td></tr><tr><td>Hello Monster</td><td>1</td><td><a href="https://opensea.io/assets/ethereum/0x3a1561ef33515bba77a4df88d80afa9d363900e1/95">https://opensea.io/assets/ethereum/0x3a1561ef33515bba77a4df88d80afa9d363900e1/95</a></td></tr><tr><td>Emergence Founders Pass</td><td>1</td><td><a href="https://opensea.io/assets/ethereum/0xa3a39a8702d40f1fead4f73477fc53c51053a380/336">https://opensea.io/assets/ethereum/0xa3a39a8702d40f1fead4f73477fc53c51053a380/336</a></td></tr></tbody></table>
