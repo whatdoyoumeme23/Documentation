@@ -143,6 +143,7 @@
   * [Gunzilla](nodes/gunzilla.md)
   * [MetaXseed](nodes/metaxseed.md)
   * [Sonorus](nodes/sonorus.md)
+  * [GPU.net](nodes/gpu.net.md)
 * [🖼️ NFT's](nfts.md)
 
 ## Fundamentals
