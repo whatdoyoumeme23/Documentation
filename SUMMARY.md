@@ -145,6 +145,7 @@
   * [Sonorus](nodes/sonorus.md)
   * [GPU.net](nodes/gpu.net.md)
   * [AgentLayer](nodes/agentlayer.md)
+  * [Lumia](nodes/lumia.md)
 * [🖼️ NFT's](nfts.md)
 
 ## Fundamentals
