@@ -23,7 +23,7 @@
 ***
 
 * [Investments](investments.md)
-* [Coins](our-investments/README.md)
+* [🪙 Coins](our-investments/README.md)
   * [😁 How does it work?](our-investments/how-does-it-work.md)
   * [Dexcheck](our-investments/dexcheck.md)
   * [✅ WorkX](our-investments/workx.md)
