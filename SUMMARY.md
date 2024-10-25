@@ -144,6 +144,7 @@
   * [MetaXseed](nodes/metaxseed.md)
   * [Sonorus](nodes/sonorus.md)
   * [GPU.net](nodes/gpu.net.md)
+  * [AgentLayer](nodes/agentlayer.md)
 * [🖼️ NFT's](nfts.md)
 
 ## Fundamentals
