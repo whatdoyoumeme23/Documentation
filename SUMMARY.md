@@ -136,6 +136,7 @@
   * [Matrix One](our-investments/matrix-one.md)
   * [DoginHood](coins/doginhood.md)
   * [Agents AI](coins/agents-ai.md)
+  * [RWA Inc.](coins/rwa-inc..md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
