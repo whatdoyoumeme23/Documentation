@@ -18,4 +18,5 @@ description: >-
 * [x] Aitech Pad (Diamond tier)
 * [x] Dexcheck Pad (Oracle tier)
 * [x] Gamestarter (VIP)
+* [x] Oxbull (Tier 1)
 
