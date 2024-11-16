@@ -149,6 +149,7 @@
   * [GPU.net](nodes/gpu.net.md)
   * [AgentLayer](nodes/agentlayer.md)
   * [Lumia](nodes/lumia.md)
+  * [Revolving Games](nodes/revolving-games.md)
 * [🖼️ NFT's](nfts.md)
 
 ## Fundamentals
