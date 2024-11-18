@@ -137,6 +137,7 @@
   * [DoginHood](coins/doginhood.md)
   * [Agents AI](coins/agents-ai.md)
   * [RWA Inc.](coins/rwa-inc..md)
+  * [MicroGPT](coins/microgpt.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
