@@ -15,7 +15,6 @@ description: >-
 * [x] Gainspad (Wizard tier)
 * [x] Neo Tokyo S1 NFT
 * [x] 20 Nexus NFT's (Mythical tier)
-* [x] Aitech Pad (Diamond tier)
 * [x] Dexcheck Pad (Oracle tier)
 * [x] Gamestarter (VIP)
 * [x] Oxbull (Tier 1)
