@@ -139,6 +139,7 @@
   * [RWA Inc.](coins/rwa-inc..md)
   * [MicroGPT](coins/microgpt.md)
   * [Plena Finance](coins/plena-finance.md)
+  * [MeAI](coins/meai.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
