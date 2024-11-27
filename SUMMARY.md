@@ -140,6 +140,8 @@
   * [MicroGPT](coins/microgpt.md)
   * [Plena Finance](coins/plena-finance.md)
   * [MeAI](coins/meai.md)
+  * [Venturemind](coins/venturemind.md)
+  * [Renovi](coins/renovi.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
