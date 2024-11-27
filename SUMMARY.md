@@ -143,6 +143,7 @@
   * [Renovi](coins/renovi.md)
   * [Moongate](coins/moongate.md)
   * [Shieldeum](coins/shieldeum.md)
+  * [DYOR](coins/dyor.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
