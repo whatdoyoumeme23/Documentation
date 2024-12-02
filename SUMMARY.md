@@ -144,6 +144,7 @@
   * [Moongate](coins/moongate.md)
   * [Shieldeum](coins/shieldeum.md)
   * [DYOR](coins/dyor.md)
+  * [Altcoinist](coins/altcoinist.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
