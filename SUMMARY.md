@@ -146,6 +146,7 @@
   * [DYOR](coins/dyor.md)
   * [Altcoinist](coins/altcoinist.md)
   * [Super Meme](coins/super-meme.md)
+  * [Pink Moon Studios](coins/pink-moon-studios.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
