@@ -147,7 +147,7 @@
   * [Altcoinist](coins/altcoinist.md)
   * [Super Meme](coins/super-meme.md)
   * [Pink Moon Studios](coins/pink-moon-studios.md)
-  * [Copy of Pink Moon Studios](coins/copy-of-pink-moon-studios.md)
+  * [Otto](coins/otto.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
