@@ -146,7 +146,6 @@
   * [DYOR](coins/dyor.md)
   * [Altcoinist](coins/altcoinist.md)
   * [Super Meme](coins/super-meme.md)
-  * [Pink Moon Studios](coins/pink-moon-studios.md)
   * [Otto](coins/otto.md)
   * [HoneyFun AI](coins/honeyfun-ai.md)
   * [1Hub AI](coins/1hub-ai.md)
