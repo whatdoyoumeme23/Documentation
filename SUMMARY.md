@@ -150,6 +150,7 @@
   * [HoneyFun AI](coins/honeyfun-ai.md)
   * [1Hub AI](coins/1hub-ai.md)
   * [AgentsGPT](coins/agentsgpt.md)
+  * [PeacePal AI](coins/peacepal-ai.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
