@@ -151,6 +151,7 @@
   * [1Hub AI](coins/1hub-ai.md)
   * [AgentsGPT](coins/agentsgpt.md)
   * [PeacePal AI](coins/peacepal-ai.md)
+  * [FOMO](coins/fomo.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
