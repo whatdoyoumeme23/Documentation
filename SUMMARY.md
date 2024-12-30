@@ -154,6 +154,8 @@
   * [FOMO](coins/fomo.md)
   * [AI Voice Agents](coins/ai-voice-agents.md)
   * [Sentient AI](coins/sentient-ai.md)
+  * [Mind AI](coins/mind-ai.md)
+  * [Sapiens AI](coins/sapiens-ai.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
