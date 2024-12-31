@@ -7,15 +7,16 @@ description: >-
 
 # ✅ Our launchpads
 
-* [x] Seedify (Tier 7)
+* [x] Seedify (Tier 8)
 * [x] Spartadex (God tier)
-* [x] ChainGPT (Tripple diamond)
+* [x] ChainGPT (5X diamond)
+* [x] Degenpad (Whale)
+* [x] DexTpad (Chad)
 * [x] Enjinstarter (Multiverse)
 * [x] Gains Associates (Sharks)
 * [x] Gainspad (Wizard tier)
 * [x] Neo Tokyo S1 NFT
 * [x] 20 Nexus NFT's (Mythical tier)
-* [x] Dexcheck Pad (Oracle tier)
 * [x] Gamestarter (VIP)
 * [x] Oxbull (Tier 1)
 
