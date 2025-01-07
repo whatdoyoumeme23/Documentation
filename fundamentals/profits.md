@@ -25,3 +25,9 @@ Profits gathered every 9th of the month for 2024:
 <table><thead><tr><th>Profit September 2024: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
 
 <table><thead><tr><th>Profit October 2024: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
+
+<table><thead><tr><th>Profit November 2024: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
+
+<table><thead><tr><th>Profit December 2024: $19,052 </th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>37%</td><td>$7049</td></tr><tr><td>Launchpad wallet</td><td>46%</td><td>$8763</td></tr><tr><td><a href="https://bscscan.com/tx/0xc7c9216bcac4557b9f9dac8e55b78473fa052a40f4e48e7fc7e350bba9c1faee">Buyback</a> &#x26;<a href="https://bscscan.com/tx/0xff22db9bcbe23c2976c98eac93dc3755ab4a48ee7679253a6bfe96c620702519"> Burn</a></td><td>17%</td><td>$3238</td></tr></tbody></table>
+
+<table><thead><tr><th>Profit January 2025: $ 20,249</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>t.b.d</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>t.b.d</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>t.b.d</td><td>$0</td></tr></tbody></table>
