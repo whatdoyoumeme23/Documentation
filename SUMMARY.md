@@ -161,6 +161,7 @@
   * [DEFAI](coins/defai.md)
   * [DTRXBT](coins/dtrxbt.md)
   * [Mystery Agent #1](coins/mystery-agent-1.md)
+  * [DePINed](coins/depined.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
