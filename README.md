@@ -8,4 +8,4 @@
 
 Got a minute? Let us introduce Web3 Whales in a single video:
 
-{% embed url="https://youtu.be/pe2Xc2HjTGw" %}
+{% embed url="https://www.youtube.com/watch?v=0mRFejhQtdI" %}
