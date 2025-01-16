@@ -163,6 +163,7 @@
   * [Mystery Agent #1](coins/mystery-agent-1.md)
   * [DePINed](coins/depined.md)
   * [ChainAware](coins/chainaware.md)
+  * [Searchpad](coins/searchpad.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
