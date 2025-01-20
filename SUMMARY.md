@@ -164,6 +164,7 @@
   * [DePINed](coins/depined.md)
   * [ChainAware](coins/chainaware.md)
   * [Searchpad](coins/searchpad.md)
+  * [Punky](coins/punky.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
