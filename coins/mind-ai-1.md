@@ -1,4 +1,4 @@
-# Mind AI
+# 🔜 Mind AI
 
 
 

@@ -1,4 +1,4 @@
-# DePINed
+# 🔜 DePINed
 
 
 
