@@ -165,7 +165,7 @@
   * [ChainAware](coins/chainaware.md)
   * [Searchpad](coins/searchpad.md)
   * [Punky](coins/punky.md)
-  * [Copy of Punky](coins/copy-of-punky.md)
+  * [Lympid](coins/lympid.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
