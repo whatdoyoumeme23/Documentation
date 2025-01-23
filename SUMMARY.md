@@ -139,7 +139,6 @@
   * [Renovi](coins/renovi.md)
   * [Moongate](coins/moongate.md)
   * [Shieldeum](coins/shieldeum.md)
-  * [DYOR](coins/dyor.md)
   * [✅ Altcoinist](coins/altcoinist.md)
   * [Super Meme](coins/super-meme.md)
   * [✅ Otto](coins/otto.md)
