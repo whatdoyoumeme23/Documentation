@@ -162,6 +162,7 @@
   * [🔜 Punky](coins/punky.md)
   * [🔜 Lympid](coins/copy-of-punky.md)
   * [🔜 AgentWood](coins/agentwood.md)
+  * [🔜 Killer Whale](coins/killer-whale.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
