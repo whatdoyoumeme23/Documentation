@@ -34,3 +34,4 @@ Profits gathered every 9th of the month for 2025:
 
 <table><thead><tr><th>Profit January 2025: $ 20,249</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>60%</td><td>$12148 ($8099 USDC / $4049 W3W)</td></tr><tr><td>Launchpad wallet</td><td>20%</td><td>$4049</td></tr><tr><td><a href="https://bscscan.com/tx/0x3a50ddcb0a402529a7513966adcf6c451c00fb652fcf15a9e207b17afb0cf10a">Buyback</a> &#x26; <a href="https://bscscan.com/tx/0xa354800f478264f7fa22919acdf959aaca4824223bf1dba55d826f26e22e381e">Burn</a></td><td>20%</td><td>$4049</td></tr></tbody></table>
 
+<table><thead><tr><th>Profit February 2025: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
