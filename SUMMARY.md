@@ -159,7 +159,7 @@
   * [🔜 DePINed](coins/depined.md)
   * [ChainAware](coins/chainaware.md)
   * [Searchpad](coins/searchpad.md)
-  * [🔜 Punky](coins/punky.md)
+  * [Punky](coins/punky.md)
   * [🔜 Lympid](coins/copy-of-punky.md)
   * [🔜 AgentWood](coins/agentwood.md)
   * [🔜 Killer Whale](coins/killer-whale.md)
