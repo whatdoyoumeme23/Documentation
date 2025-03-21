@@ -156,7 +156,6 @@
   * [✅ DEFAI](coins/defai.md)
   * [DTRXBT](coins/dtrxbt.md)
   * [✅ Mystery Agent #1](coins/mystery-agent-1.md)
-  * [🔜 DePINed](coins/depined.md)
   * [ChainAware](coins/chainaware.md)
   * [Searchpad](coins/searchpad.md)
   * [Punky](coins/punky.md)
