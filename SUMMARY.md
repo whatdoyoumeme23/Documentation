@@ -142,7 +142,7 @@
   * [✅ Altcoinist](coins/altcoinist.md)
   * [Super Meme](coins/super-meme.md)
   * [✅ Otto](coins/otto.md)
-  * [🔜 HoneyFun AI](coins/honeyfun-ai.md)
+  * [HoneyFun AI](coins/honeyfun-ai.md)
   * [1Hub AI](coins/1hub-ai.md)
   * [🔜 AgentsGPT](coins/agentsgpt.md)
   * [PeacePal AI](coins/peacepal-ai.md)

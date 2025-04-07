@@ -1,4 +1,4 @@
-# 🔜 HoneyFun AI
+# HoneyFun AI
 
 
 
