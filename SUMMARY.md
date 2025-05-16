@@ -165,6 +165,7 @@
   * [🔜 Pindora](coins/pindora.md)
   * [🔜 IAgent](coins/iagent.md)
   * [🔜 TapDaDoge](coins/tapdadoge.md)
+  * [🔜 BeraTrax](coins/beratrax.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
