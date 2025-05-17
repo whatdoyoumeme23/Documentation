@@ -5,3 +5,5 @@
 Vesting Degenpad public round: 100% TGE,\
 Vesting CGPT KOL round: 20% TGE, 6 months linear.\
 Tokenomics: [https://docs.google.com/spreadsheets/d/1o-1Inb7VjmRebx2js8ytM\_djPBiqx32zEGdDlN2AiI0/edit?gid=1655413767#gid=1655413767](https://docs.google.com/spreadsheets/d/1o-1Inb7VjmRebx2js8ytM_djPBiqx32zEGdDlN2AiI0/edit?gid=1655413767#gid=1655413767)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
