@@ -1,4 +1,4 @@
-# 🔜 TapDaDoge
+# TapDaDoge
 
 
 
