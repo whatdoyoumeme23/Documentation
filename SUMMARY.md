@@ -162,7 +162,7 @@
   * [🔜 AgentWood](coins/agentwood.md)
   * [Killer Whale](coins/killer-whale.md)
   * [TapDaDoge](coins/tapdadoge.md)
-  * [🔜 Inferium](coins/inferium.md)
+  * [🔜 WAGMI Hub](coins/wagmi-hub.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
