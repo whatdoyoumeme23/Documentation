@@ -163,6 +163,7 @@
   * [Killer Whale](coins/killer-whale.md)
   * [TapDaDoge](coins/tapdadoge.md)
   * [🔜 WAGMI Hub](coins/wagmi-hub.md)
+  * [✅ P33l](coins/p33l.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
