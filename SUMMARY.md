@@ -164,7 +164,6 @@
   * [TapDaDoge](coins/tapdadoge.md)
   * [🔜 WAGMI Hub](coins/wagmi-hub.md)
   * [✅ P33l](coins/p33l.md)
-  * [GG3](coins/gg3.md)
   * [🔜 Descipher](coins/descipher.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
