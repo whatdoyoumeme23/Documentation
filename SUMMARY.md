@@ -162,7 +162,6 @@
   * [🔜 AgentWood](coins/agentwood.md)
   * [Killer Whale](coins/killer-whale.md)
   * [TapDaDoge](coins/tapdadoge.md)
-  * [🔜 WAGMI Hub](coins/wagmi-hub.md)
   * [✅ P33l](coins/p33l.md)
   * [🔜 Descipher](coins/descipher.md)
 * [💻 Nodes](nodes/README.md)
