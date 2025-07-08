@@ -39,3 +39,9 @@ Profits gathered every 9th of the month for 2025:
 <table><thead><tr><th>Profit March 2025: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
 
 <table><thead><tr><th>Profit April 2025: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
+
+<table><thead><tr><th width="306.2662353515625">Profit May 2025: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
+
+<table><thead><tr><th width="306.2662353515625">Profit June 2025: $0</th><th width="134.33333333333331">%</th><th>$</th></tr></thead><tbody><tr><td>Stakers</td><td>0%</td><td>$0</td></tr><tr><td>Launchpad wallet</td><td>0%</td><td>$0</td></tr><tr><td>Buyback &#x26; Burn</td><td>0%</td><td>$0</td></tr></tbody></table>
+
+<table><thead><tr><th width="285.479736328125">Profit July 2025: $0</th><th width="134.33333333333331">%</th><th width="364.0095621744792">$</th></tr></thead><tbody><tr><td>Stakers</td><td>25%</td><td>$7.958,5 (3,979.25 USDC / 3,979.25 W3W)</td></tr><tr><td>Launchpad wallet</td><td>25%</td><td>$3,979.25</td></tr><tr><td>Buyback &#x26; Burn</td><td>25% + 25%</td><td>$3,979.25</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
