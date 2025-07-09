@@ -164,6 +164,7 @@
   * [TapDaDoge](coins/tapdadoge.md)
   * [✅ P33l](coins/p33l.md)
   * [🔜 Descipher](coins/descipher.md)
+  * [🔜 Dashfun](coins/dashfun.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
