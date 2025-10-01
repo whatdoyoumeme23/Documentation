@@ -165,6 +165,7 @@
   * [✅ P33l](coins/p33l.md)
   * [🔜 Descipher](coins/descipher.md)
   * [🔜 NewEra](coins/newera.md)
+  * [🔜 AiDefi](coins/aidefi.md)
 * [💻 Nodes](nodes/README.md)
   * [Seedroots](nodes/seedroots.md)
   * [0XVM](nodes/0xvm.md)
